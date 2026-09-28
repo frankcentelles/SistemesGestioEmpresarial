@@ -54,7 +54,7 @@ print(nuevaLlista)
 # convertir les paraules d'una cadena a una llista
 cadena1 = "hola esto es una cadena"
 lista3 = cadena1.split()
-print("lista en cadena: "+lista3)
+print("lista en cadena: ",lista3)
 
 # comentaris amb una linea
 
