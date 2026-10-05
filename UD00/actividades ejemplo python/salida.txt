@@ -1,0 +1,5 @@
+Hi han 4 números palíndroms.
+Hi han 4 números cosins.
+5
+7
+11
